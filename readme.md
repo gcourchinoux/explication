@@ -1,6 +1,8 @@
 # Explication des dépots de code présents sur mon compte :
 
-for englist [click here](https://github.com/gcourchinoux/explication/blob/main/readme.en.md)
+for english [click here](https://github.com/gcourchinoux/explication/blob/main/readme.en.md)
+
+
 Je me nomme Gaspard COURCHINOUX, je suis un programmeur des systèmes bas niveaux. 
 
 J'ai écrit une architecture s'appelant Gaspard. 
